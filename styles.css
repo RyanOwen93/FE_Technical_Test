@@ -11,6 +11,7 @@ h1 {
     font-family: 'Roboto', sans-serif;;
     color: #A65C00;
     font-size: 40px;
+    font-weight: 400;
     
 }
 
@@ -19,7 +20,7 @@ h1 {
 }
 
 hr {
-    width: 90%;
+    width: 80%;
 }
 
 .imgContainer {
@@ -27,7 +28,7 @@ hr {
 }
 
 .content {
-    overflow-x: auto;
+/*    overflow-x: auto;*/
 }
 
 p {
